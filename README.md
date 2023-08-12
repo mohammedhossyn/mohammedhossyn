@@ -13,9 +13,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-   <a href="t.me/mohammedhossyn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+   <a href="telegram.me/mohammedhossyn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedhossyn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/mohammedhossyn-ansari-343862269" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
  
 
