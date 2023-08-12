@@ -1,11 +1,11 @@
 
 # <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Script&weight=500&size=30&duration=7000&pause=2000&color=000000&width=700&lines=This+is+mohammedhossyn+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Script&weight=500&size=30&duration=7000&pause=2000&color=000000&width=700&lines=Beware+of+a+Java+programmer.)](https://git.io/typing-svg)
 </div>   
 
   
 ## 👨🏻‍💻 About Me :
-🌌 I’m a web developer but actually with Jakarta EE<br>
+🌌 Web developer but actually with Jakarta EE<br>
 👾 My projects in <a href="https://github.com/Mohsenkhademian?tab=repositories">My Repository</a><br>
 🤍 Main Interest is Java<br>
 📫 You can catch me by <a href="https://mailto:mohammadhosseinansari56@gmail.com">mohammadhosseinansari56@gmail.com</a>
