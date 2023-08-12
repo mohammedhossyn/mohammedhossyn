@@ -1,6 +1,6 @@
 
 # <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=500&size=30&duration=7000&pause=2000&color=000000&width=700&lines=This+is+mohammedhossyn+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Script&weight=500&size=30&duration=7000&pause=2000&color=000000&width=700&lines=This+is+mohammedhossyn+.)](https://git.io/typing-svg)
 </div>   
 
   
@@ -27,5 +27,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![tailwind](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
