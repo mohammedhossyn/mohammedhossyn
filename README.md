@@ -7,11 +7,10 @@
 ## About Me :
 h:inputText id="expertise" value="Web developer but actually with Jakarta EE" <br>
 h:commandLink value="My projects" action="<a href="https://github.com/Mohsenkhademian?tab=repositories">My Repository</a>"<br>
-h:outputText value="My Interest is Java" <br>
+h:outputText value="My Interest is ![Jakarta](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) " <br>
 h:commandLink value="email" action="email.to <a href="https://mailto:mohammadhosseinansari56@gmail.com">mohammadhosseinansari56@gmail.com</a> " 
 
 # <h3><img src="https://user-images.githubusercontent.com/31341013/215384145-99d3ea7f-9fab-4b7e-a476-dbfc533b1412.gif" height="25"/> Also:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-68BC71.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
