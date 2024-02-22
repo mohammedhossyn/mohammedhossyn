@@ -24,6 +24,4 @@ h:commandLink value="email" action="email.to <a href="https://mailto:mohammadhos
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammedhossyn-ansari-343862269" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
- 
-https://github.com/mohammedhossyn/metrics/raw/examples/metrics.plugin.languages.svg
 
