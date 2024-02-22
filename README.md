@@ -6,9 +6,9 @@
   
 ## About Me :
 h:inputText id="expertise" value="Web developer but actually with Jakarta EE" <br>
-h:commandLink value="My projects" <a href="https://github.com/Mohsenkhademian?tab=repositories">My Repository</a><br>
+h:commandLink value="My projects" action="<a href="https://github.com/Mohsenkhademian?tab=repositories">My Repository</a>"<br>
 h:outputText value="My Interest is Java" <br>
-h:commandLink value="email" action="email.to" <a href="https://mailto:mohammadhosseinansari56@gmail.com">mohammadhosseinansari56@gmail.com</a>
+h:commandLink value="email" action="email.to <a href="https://mailto:mohammadhosseinansari56@gmail.com">mohammadhosseinansari56@gmail.com</a> " 
 
 
 ## 🌐 Socials:
