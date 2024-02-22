@@ -25,15 +25,5 @@ h:commandLink value="email" action="email.to <a href="https://mailto:mohammadhos
   <a href="https://www.linkedin.com/in/mohammedhossyn-ansari-343862269" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
  
-name: Most used
-- uses: mohammedhossyn/metrics@latest
-with:
-  filename: metrics.plugin.languages.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_languages: yes
-  plugin_languages_ignored: >-
-    html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-    gnuplot
-  plugin_languages_limit: 4
+https://github.com/mohammedhossyn/metrics/raw/examples/metrics.plugin.languages.svg
 
