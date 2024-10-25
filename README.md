@@ -17,6 +17,7 @@ h:commandLink value="email" action="mail.to(<a href="https://mailto:mohammadhoss
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![tailwind](https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%230769AD.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 🌐 Socials:
 <p align="left">
